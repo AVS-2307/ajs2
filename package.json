@@ -1,6 +1,6 @@
 {
   "name": "@avs-2307/ajs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",
   "publishConfig": {
